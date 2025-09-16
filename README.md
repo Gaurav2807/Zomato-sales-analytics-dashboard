@@ -8,11 +8,30 @@ This project is an interactive Power BI report that provides detailed insights i
 ## Objective
 To analyze Zomato sales data for identifying key trends, regional performances, and customer preferences, to draw meaningful insights that enable the stakeholders to make sense of the data and derive decisions.
 
+### Sales Performance Insights
+* **Total Sales Volume:** Understanding the overall revenue generated from food orders allowing the business to measure its market size and growth trajectory.
+* **Sales Growth Trends:** Tracking monthly or quarterly sales growth highlights, peak seasons, promotional success, or periods needing business intervention.
+* **Order Volume vs. Revenue:** Comparing order counts to sales revenue helps identify average order values and purchasing behavior trends.
+
+### Regional & Geographic Insights
+* **Top Performing Cities:** Identifying cities or regions with the highest sales enabling targeted marketing and resource allocation.
+* **Underperforming Regions:** Detecting areas with lower sales pointing the opportunities for expansion or customer engagement improvement.
+* **Sales Distribution Heatmaps:** Visual geographic distributions can reveal clusters of high demand or logistics challenges.
+
+### Customer Behavior Insights
+* **Demographic Patterns:** Analyzing sales by customer demographics like age and gender that will help to tailor promotions and menu offerings.
+* **Popular Items:** Highlighting best-selling dishes which will be helpful in inventory management and menu optimization.
+* **Order Frequency:** Understanding repeat orders versus new customers which reveals customer loyalty and satisfaction levels.
+
+### Operational and Strategic Insights
+* **Sales Channel Effectiveness:** Comparing sales from different channels or platforms (if data available) improving channel strategy.
+* **Time-Based Demand Patterns:** Recognizing peak order times during days or weeks helps in managing staffs and delivery planning.
+* **Profitability Metrics:** Calculated profit margins guide pricing strategies and cost control measures.
+
 ## Audience and Impact 
-  ### <ins>Target users</ins>
+  ### Target users
   * Business managers, marketing teams, and data analysts who want quick, visual insights to make data-driven decisions.
-  * 
-  ### <ins>Value addition</ins>
+  ### Value addition
   * Enables faster decision-making through easy-to-understand, interactive dashboards that visualize complex sales data.
 
 ## Data & Resources
@@ -20,13 +39,11 @@ To analyze Zomato sales data for identifying key trends, regional performances, 
 * Data sources cover metrics such as sales revenue, order counts, locations, and customer demographics.  
 * The data is imported into Power BI using Power Query for cleaning, transformation, and modeling.  
 
-
-
-
-
-
-
-
+## Skills Used 
+* Data collection, cleaning, and transformation (Excel - Power Query)
+* Building dynamic data models (Power BI - Data modelling)
+* Creating compelling, interactive visualizations (Power BI - DAX)
+* Utilizing metrics to track growth and regional performance (Business Acumen and Product Sense)
 
 ## Video tutorial link
 You can watch the video tutorials using these links - 
